@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Meal Planner UI</string>
+    <string name="excercise_level">Excercise Level</string>
 </resources>
